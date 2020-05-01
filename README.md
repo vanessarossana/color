@@ -1,0 +1,2 @@
+# color
+paleta de colores
